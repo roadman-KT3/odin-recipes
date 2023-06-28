@@ -1,0 +1,51 @@
+
+#title_tab {
+    text-align: center;
+    font-size: 50px;
+    color: green;
+    font-family: cursive;
+}
+.pop_up li{
+            text-align: center;
+            font-family: cursive;
+            font-size: medium;
+            font-weight: bolder;
+        }
+
+#j-title{
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    text-align: left;
+    color: green;
+    font-family: cursive;
+}
+
+#j-pic{
+    width: 350px;
+    height: 350px;
+}
+
+h2, h3, h4{
+    font-style: italic;
+    font-family: cursive;
+    font-size: x-large;
+
+}
+
+#description{
+    text-align: center;
+    color: green;
+    font-family: cursive;
+    font-style: italic;
+
+}
+
+ul,ol{
+    font-size: large;
+    font-style: italic;
+    font-family: cursive;
+    color: green;
+
+}
+

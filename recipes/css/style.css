@@ -1,17 +1,46 @@
+body{
+    display: block;
+    background-image: url(img/plantain.png);    
+}
 
-#title_tab {
+.header{
+    display: flex;
+    flex-direction: column;
+    flex-shrink: inherit;
     text-align: center;
     font-size: 50px;
     color: green;
     font-family: cursive;
+    
 }
-.pop_up li{
+
+.pop_up{
             text-align: center;
             font-family: cursive;
             font-size: medium;
             font-weight: bolder;
-        }
+            padding: auto;
+            
+}
 
+ul {
+    padding: 20px;
+}
+
+.pop_up li {
+    margin-bottom: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    list-style: none;
+
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
 #j-title{
     font-size: medium;
     font-style: italic;
@@ -25,6 +54,7 @@
     width: 350px;
     height: 350px;
 }
+
 
 h2, h3, h4{
     font-style: italic;
@@ -48,4 +78,5 @@ ul,ol{
     color: green;
 
 }
+
 
